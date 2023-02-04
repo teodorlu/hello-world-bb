@@ -1,0 +1,2 @@
+{:deps {org.babashka/cli {:mvn/version "0.6.45"}}
+ :aliases {}}

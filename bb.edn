@@ -1,0 +1,2 @@
+{:deps {io.github.teodorlu/hello-world.bb {:local/root "."}}
+ :bbin/bin {hello-world.bb {:main-opts ["-m" "teodorlu.hello-world/-main"]}}}
